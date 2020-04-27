@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: aab13b3a659cdbc44a5e36669f9934d7
+timeCreated: 1493321499
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Cube
+  fontNames:
+  - Cube
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
